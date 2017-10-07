@@ -1,4 +1,4 @@
-# React Medium Clone 
+# React Medium Clone (V2)
  - code example for React intro talk (October 2017)
  - version with state and props
  - See [here](https://github.com/kristinbaumann/react-medium-clone-v1) for version without state and props
