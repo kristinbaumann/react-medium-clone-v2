@@ -11,6 +11,7 @@ class Section extends Component {
   }
   render() {
     const {category} = this.state;
+    console.log("Render with State:",category);
 
     // filter articles by category
     const dataPerCategory = data.filter((dataItem) => dataItem.category === category);
@@ -23,13 +24,13 @@ class Section extends Component {
       <div className="section">
         <ul>
           <li className={category === 'top-stories' ? `active`: ``} 
-            onClick={() => this.setState({category: 'top-stories'})}
+            onClick={() => { console.log('Tab clicked'); this.setState({category: 'top-stories'})}}
             >Top Stories</li>
           <li className={category === 'programming' ? `active`: ``}
-            onClick={() => this.setState({category: 'programming'})}
+            onClick={() => { console.log('Tab clicked'); this.setState({category: 'programming'})}}
             >Programming</li>
           <li className={category === 'design' ? `active`: ``} 
-            onClick={() => this.setState({category: 'design'})}
+            onClick={() => { console.log('Tab clicked'); this.setState({category: 'design'})}}
             >Design</li>
         </ul>
         <div className="section-articles">{articles}</div>
