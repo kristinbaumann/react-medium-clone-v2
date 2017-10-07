@@ -1,0 +1,56 @@
+[
+    {
+        "title": "10 Free Business Templates You Can Use Today",
+        "author": "Larry Kim",
+        "image": "kim-1.png",
+        "category": "top-stories" 
+    },
+    {
+        "title": "Designing the Perfect Soap Holder",
+        "author": "Andy Raskin",
+        "image": "raskin-1.jpeg",
+        "category": "design" 
+    },
+    {
+        "title": "I built a serverless Telegram bot on the weekend.",
+        "author": "Moses Soh",
+        "image": "soh-1.jpeg",
+        "category": "programming" 
+    },
+    {
+        "title": "How to code sports games from Amazon Alexa",
+        "author": "Terren Peterson",
+        "image": "peterson-1.jpeg",
+        "category": "programming" 
+    },
+    {
+        "title": "8 Reasons why the 8 Hour Workday Doesn't Make Sense",
+        "author": "Srinivas Rao",
+        "image": "rao-1.jpeg",
+        "category": "top-stories" 
+    },
+    {
+        "title": "You snooze, you lose",
+        "author": "Anton Nikolov",
+        "image": "nikolov-1.jpeg",
+        "category": "top-stories" 
+    },
+    {
+        "title": "Let There Be Peace on CSS",
+        "author": "Cristiano Rastelli",
+        "image": "rastelli-1.png",
+        "category": "programming" 
+    },
+    {
+        "title": "Branding across cultures : How to Pair Latin and Kanji type",
+        "author": "Ulrik Hogrebe",
+        "image": "hogrebe-1.png",
+        "category": "design" 
+    },
+    {
+        "title": "Design for iPhone X",
+        "author": "Niels",
+        "image": "niels-1.png",
+        "category": "design" 
+    }
+]
